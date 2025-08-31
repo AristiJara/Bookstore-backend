@@ -14,16 +14,16 @@
 
 # 📚 Bookstore Backend
 
-Un backend construido con **NestJS** y **PostgreSQL**, que proporciona:
-- 🔑 Autenticación con **JWT**  
-- 👥 Gestión de usuarios  
-- 📖 Operaciones CRUD para libros  
+A backend built with **NestJS** and **PostgreSQL**, providing:
+- 🔑 Authentication with **JWT**  
+- 👥 User management  
+- 📖 CRUD operations for books  
 
 ---
 
-## 🚀 Tecnologías principales
+## 🚀 Main Technologies
 
-- **NestJS** → Framework progresivo de Node.js  
-- **PostgreSQL** → Base de datos relacional  
-- **TypeORM** → ORM para TypeScript  
-- **JWT (JSON Web Token)** → Autenticación segura  
+- **NestJS** → A progressive Node.js framework  
+- **PostgreSQL** → Relational database  
+- **TypeORM** → ORM for TypeScript  
+- **JWT (JSON Web Token)** → Secure authentication  
